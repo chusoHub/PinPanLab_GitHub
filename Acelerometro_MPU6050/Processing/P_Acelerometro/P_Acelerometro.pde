@@ -1,3 +1,4 @@
+//Programa para Puertas Fotoeléctricas PinPanLab Jesús Vicente
 import processing.serial.*;
 
 int lf = 10;    // Linefeed in ASCII
@@ -415,3 +416,4 @@ void Crear_Excel_y_grabar(int theValue) {
     }
   };
 };
+//Programa para Puertas Fotoeléctricas PinPanLab Jesús Vicente
